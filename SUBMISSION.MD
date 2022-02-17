@@ -6,7 +6,7 @@ Screenshot 1
 https://github.com/soljess/spring-petclinic/blob/6ea9ef279c6b0aa27796ee1ea1442c9bae630424/figures/Screenshot%201%20-%20Actions%20dashboard%20successful%20first%20build.png
 
 Screenshot 2
-https://github.com/soljess/spring-petclinic/blob/6ea9ef279c6b0aa27796ee1ea1442c9bae630424/figures/Screenshot%202%20%20readme.md%20file%20showing%20code%20update.png
+https://github.com/soljess/spring-petclinic/blob/6ea9ef279c6b0aa27796ee1ea1442c9bae630424/figures/Screenshot%202%20-%20readme.md%20file%20showing%20code%20update.png
 
 Screenshot 3
 https://github.com/soljess/spring-petclinic/blob/6ea9ef279c6b0aa27796ee1ea1442c9bae630424/figures/Screenshot%203%20-%20readme.md%20build%20success.png
