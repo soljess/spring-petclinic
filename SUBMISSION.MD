@@ -6,6 +6,13 @@ Docker Deliverables
 ![Screen Capture #1](figures/Screenshot1HW8.png)
 ![Screen Capture #2](figures/Screenshot2HW8.png)
 
+![Screen Capture #3](figures/Screenshot3HW8-dockercomposeup.png)
+![Screen Capture #3](figures/Screenshot4VetPage.png)
+![Screen Capture #3](figures/Screenshot5HW8Stacktrace.png)
+![Screen Capture #3](figures/Screenshot5HW8Stacktrace2.png)
+
+
+
 
 
 
