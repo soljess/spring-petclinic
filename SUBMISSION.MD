@@ -1,6 +1,17 @@
-Jessica Solis Submission.md file newly created
+Jessica Solis Submission.md updated for Homework 8
 
-Screenshot links
+Docker Deliverables 
+
+- Link to Docker File: https://github.com/soljess/spring-petclinic/blob/master/Dockerfile
+![Screen Capture #1](figures/Screenshot1HW8.png)
+![Screen Capture #2](figures/Screenshot2HW8.png)
+
+
+
+
+
+
+<!-- Screenshot links
 
 Screenshot 1 
 ![Screen Capture #1](figures/Screenshot1.png)
@@ -28,3 +39,4 @@ Screenshot 8
 
 Screenshot 9
 ![Screen Capture #1](figures/Screenshot9.png)
+ -->
