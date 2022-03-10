@@ -11,9 +11,10 @@ Docker Deliverables
 ![Screen Capture #3](figures/Screenshot5HW8Stacktrace.png)
 ![Screen Capture #3](figures/Screenshot5HW8Stacktrace2.png)
 
+- Link  to docker-compose.yml file and application-mysql.properties file
+  https://github.com/soljess/spring-petclinic/blob/master/docker-compose.yml
 
-
-
+https://github.com/soljess/spring-petclinic/blob/master/src/main/resources/application-mysql.properties
 
 
 
