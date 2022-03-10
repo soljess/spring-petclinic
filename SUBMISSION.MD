@@ -7,16 +7,17 @@ Docker Deliverables
 ![Screen Capture #2](figures/Screenshot2HW8.png)
 
 ![Screen Capture #3](figures/Screenshot3HW8-dockercomposeup.png)
-![Screen Capture #3](figures/Screenshot4VetPage.png)
-![Screen Capture #3](figures/Screenshot5HW8Stacktrace.png)
-![Screen Capture #3](figures/Screenshot5HW8Stacktrace2.png)
+![Screen Capture #4](figures/Screenshot4VetPage.png)
+![Screen Capture #5](figures/Screenshot5HW8Stacktrace.png)
+![Screen Capture #5.2](figures/Screenshot5HW8Stacktrace2.png)
 
 - Link  to docker-compose.yml file and application-mysql.properties file
   https://github.com/soljess/spring-petclinic/blob/master/docker-compose.yml
 
 https://github.com/soljess/spring-petclinic/blob/master/src/main/resources/application-mysql.properties
 
-
+![Screen Capture #6](figures/DockerComposeAppServer-DockerComposeUpCommand.png)
+![Screen Capture #7](figures/DockerComposeAppServer-VeterinarianssPage.png)
 
 
 <!-- Screenshot links
